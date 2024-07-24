@@ -27,13 +27,13 @@ Search for a node in the BST<br>
 Traverse the BST (inorder, preorder, postorder)<br>
 Follow the on-screen instructions to perform these operations.<br>
 
-*Sample Output*
-Binary Search Tree Operations:
-Insert
-Delete
-Search
-Traverse (Inorder, Preorder, Postorder)
-Exit
+<h1>Sample Output</h1>
+Binary Search Tree Operations: <br>
+Insert<br>
+Delete<br>
+Search<br>
+Traverse (Inorder, Preorder, Postorder)<br>
+<h2>Exit</h2><br>
 
-*Conclusion*
-The "Implementation of Binary Search Tree" project shows how Data Structures work in computer science. This code is implemented in C++. It provides a comprehensive implementation of a binary search tree with essential operations required in real world scenario.
+<h1>Conclusion</h1>
+The "Implementation of Binary Search Tree" project shows how elements can be used for various purpose in Data Structuring. This code is implemented in C++.
