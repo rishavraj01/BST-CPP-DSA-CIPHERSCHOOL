@@ -5,3 +5,7 @@ Insertion
 Deletion
 Searching
 Traversal (inorder, preorder, postorder)
+
+Overview
+The project "Implementation of Binary Search Tree" focuses on creating a binary search tree data structure in C++ and implementing various operations like insertion, deletion, and searching on the tree.
+
