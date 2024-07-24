@@ -1,19 +1,19 @@
-*Implementation of Binary Search Tree*
+<h1>*Implementation of Binary Search Tree*</h1>
 
-This project is focused on implementing a Binary Search Tree (BST) data structure in C++. The BST class includes operations such as: /n
-~Insertion
-~Deletion
-~Searching
-~Traversal (inorder, preorder, postorder)
+This project is focused on implementing a Binary Search Tree (BST) data structure in C++. The BST class includes operations such as:<br>
+~Insertion<br>
+~Deletion<br>
+~Searching<br>
+~Traversal (inorder, preorder, postorder)<br>
 
-*Overview*
+<h1>*Overview*</h1>
 The project "Implementation of Binary Search Tree" focuses on creating a binary search tree data structure in C++ and implementing various operations like insertion, deletion, and searching on the tree.
 
-*Features & Functionalities*
-Implemented methods for insertion (insert), deletion (remove), searching (search), and traversal (inorder, preorder, postorder).
-Insertion Operation: Allows inserting a new node into the BST while maintaining its properties (left child < parent < right child).
-Deletion Operation: Supports deletion of a node from the BST based on different cases: node has no children, node has one child, and node has two children.
-Search Operation: Enables searching for a key in the BST to determine if it exists in the tree.
+<h1>*Features & Functionalities*</h1>
+Implemented methods for insertion (insert), deletion (remove), searching (search), and traversal (inorder, preorder, postorder).<br>
+Insertion Operation: Allows inserting a new node into the BST while maintaining its properties (left child < parent < right child). <br>
+Deletion Operation: Supports deletion of a node from the BST based on different cases: node has no children, node has one child, and node has two children.<br>
+Search Operation: Enables searching for a key in the BST to determine if it exists in the tree.<br>
 
 *Technology Used*
 Programming Language: C++
