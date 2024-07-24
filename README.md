@@ -1,4 +1,4 @@
-<h1> *Implementation of Binary Search Tree* </h1>
+<h1>Implementation of Binary Search Tree</h1>
 
 This project is focused on implementing a Binary Search Tree (BST) data structure in C++. The BST class includes operations such as:<br>
 ~Insertion<br>
